@@ -156,7 +156,7 @@ export default function Navbar() {
                 {/* Navigation Links */}
                 <div className="hidden md:flex items-center space-x-6">
                     <a
-  href="https://inkpin-frontend.vercel.app"
+  href="https://ink-pin.vercel.app/dashboard"
   className="text-gray-700 hover:text-black"
   target="_blank"     // optional: opens in new tab
   rel="noopener noreferrer"
